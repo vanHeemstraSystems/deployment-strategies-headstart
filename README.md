@@ -1,5 +1,5 @@
-# deployment-strategies-headstart
-Deployment Strategies - Headstart
+deployment-strategies-headstart
+# Deployment Strategies - Headstart
 
 Based on "6 Deployment Strategies explained in Depth" at https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth
 
